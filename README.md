@@ -1,1 +1,4 @@
-# uas-pemrograman-game
+# UAS Pemrograman Game
+
+- Deskripsi
+- Disinj
